@@ -3,12 +3,13 @@
 ## Introduction
 This application enables users to search for cities, save them to a watchlist, and view current weather and temperature for each city in list format. Users can also view expected weather, humidity, and UV index for the next week.
 
+<p align="center">
 ![image](https://github.com/SeanBaek111/ReactNative-WeatherApp-FullStack/assets/33170173/7590eb7c-33b7-4383-8a08-dbe8ba48da58)
 
 ![image](https://github.com/SeanBaek111/ReactNative-WeatherApp-FullStack/assets/33170173/217c17bc-de8e-4693-be45-a1639cccdfdf)
 
 ![image](https://github.com/SeanBaek111/ReactNative-WeatherApp-FullStack/assets/33170173/42cbb372-c7a7-4670-822f-def0a2846f3a)
-
+</p>
 
 ### Purpose & Description
 The goal is to offer a seamless and consistent user experience across iOS, Android, and web platforms for weather tracking and forecast information.
