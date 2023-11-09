@@ -13,8 +13,7 @@ The goal is to offer a seamless and consistent user experience across iOS, Andro
 
 ## Video Demo
 A video demonstration of the application can be viewed on YouTube to showcase the functionality and user interface.
-[![Watch the video](https://img.youtube.com/vi/FShH5CibNI4/hqdefault.jpg)](https://www.youtube.com/watch?v=FShH5CibNI4)
-
+ 
 [Watch the Demo Video](https://youtu.be/FShH5CibNI4)
 
 ### Completeness and Limitations
